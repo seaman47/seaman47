@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am completing  a course on Data Science by Yandex.\
-In [the repository](Projects_DS) you can find some of my  projects.
+In [the repository](Projects_DS/) you can find some of my  projects.
 
 Here is the list of tools I am familiar with:
 
