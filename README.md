@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am completing  a course on Data Science by Yandex.\
+In the repository you can find some of my  projects.\
+Here is the list of tools I am familiar with:
+
 __Databases:__ PostgreSQL
 
 __Data Science:__ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
