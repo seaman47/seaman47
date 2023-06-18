@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+__Databases:__ PostgreSQL
+
+__Data Science:__ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+
 <!--
 **seaman47/seaman47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
