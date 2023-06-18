@@ -3,7 +3,7 @@
 I am completing  a course on Data Science by Yandex.\
 In [the repository](https://github.com/seaman47/Projects_DS) you can find some of my  projects.
 
-Here is the list of tools I am familiar with:
+The list of tools I am familiar with:
 
 __Databases:__ PostgreSQL
 
